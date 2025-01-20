@@ -57,10 +57,10 @@ body {
 
 /* Second Octave */
 .key.black[data-key="CSharp"] {
-    left: 500px;  /* Shifted a little more to the left */
+    left: 500px; 
 }
 .key.black[data-key="DSharp"] {
-    left: 565px;  /* Shifted a little more to the left */
+    left: 565px; 
 }
 .key.black[data-key="FSharp"] {
     left: 690px;
