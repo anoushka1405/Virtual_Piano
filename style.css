@@ -80,13 +80,13 @@ body {
     left: 1000px;
 }
 .key.black[data-key="F2Sharp"] {
-    left: 1130px;  /* Shifted a little more to the right */
+    left: 1130px;  
 }
 .key.black[data-key="G2Sharp"] {
-    left: 1195px;  /* Shifted a little more to the right */
+    left: 1195px; 
 }
 .key.black[data-key="A2Sharp"] {
-    left: 1260px;  /* Shifted a little more to the right */
+    left: 1260px; 
 }
 
 .key:hover {
